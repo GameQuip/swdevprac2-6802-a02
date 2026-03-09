@@ -1,0 +1,62 @@
+Name: Buster
+Color: Brindle and White
+Type: French Bulldog
+Estimated Age: 3 years
+Habit: Snorts loudly when he gets excited about a treat.
+Description: Buster serves as the stout guardian of the Whispering Ravine, using his powerful snorts to dispel the enchanted mists that lead travelers astray. On his journey, he seeks the Golden Acorn to restore the ancient strength of the Bulldog Clan.
+
+
+Name: Sadie
+Color: Light Cream
+Type: Labradoodle
+Estimated Age: 2 years
+Habit: Chases her own shadow on sunny afternoons.
+Description: Sadie is a mystical tracker who chases sun-shadows across the Infinite Meadow to find portals to hidden realms. Her curly, cream-colored coat acts as a beacon for lost spirits looking for their way back to the Great Labradoodle Spire.
+
+
+Name: Rex
+Color: Black and Tan
+Type: German Shepherd
+Estimated Age: 5 years
+Habit: Sits by the front door 10 minutes before his owner gets home.
+Description: Rex is the stoic Commander of the Iron Gate, standing watch over the transition between the physical world and the Dreamscape. He journeys through the Shadow Woods, guided by his keen ears to intercept any nightmares threatening the peaceful kingdom.
+
+
+Name: Penny
+Color: Red/Ginger
+Type: Shiba Inu
+Estimated Age: 4 years
+Habit: Gives a "judgmental" side-eye when she doesn't want to go for a walk.
+Description: Penny is a cunning Fox-Spirit from the Eastern Peaks who uses her legendary side-eye to freeze magical foes in their tracks. She travels in search of the Eternal Ginger Blossom, which is said to grant the power of flight to the Shiba Inu lineage.
+
+
+Name: Buddy
+Color: Golden/Cream
+Type: Golden Retriever
+Estimated Age: 3 years
+Habit: Loves to carry a tennis ball everywhere he goes.
+Description: Buddy is the Light-Bearer of the Sunken Isles, carrying a glowing orb that illuminates the path through the darkest underwater caves. He treks across the shifting sands to deliver the orb to the Temple of Waves before the tides turn forever.
+
+
+Name: Luna
+Color: Black and White
+Type: Border Collie
+Estimated Age: 2 years
+Habit: Stares intensely at moving objects, waiting for a chance to herd them.
+Description: Luna is a Weaver of Stars who herds the stray constellations back into their proper patterns across the night sky. With her black-and-white coat blending into the twilight, she runs along the horizon to keep the celestial balance intact.
+
+
+Name: Max
+Color: Tricolor (Black, Tan, White)
+Type: Beagle
+Estimated Age: 5 years
+Habit: Always has his nose to the ground, following interesting scents.
+Description: Max is a Master Alchemist who can track the scent of rare magical elements hidden deep within the Root-Forest. His tricolor markings are actually ancient runes that glow whenever he nears the fabled Fountain of Infinite Treats.
+
+
+Name: Scout
+Color: Liver and White
+Type: English Springer Spaniel
+Estimated Age: 2 years
+Habit: Wiggles her entire back half instead of just wagging her tail.
+Description: Scout is a high-spirited Scout for the Sky-Brigade, using her powerful "wiggle-propulsion" to leap across floating islands. She is currently on a quest to find the legendary Liver-Spotted Map that reveals the location of the Cloud Citadel.
